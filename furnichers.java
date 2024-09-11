@@ -4,7 +4,7 @@ public class furnichers {
     int fan=0;
     int sofa=0;
     int cart=0;
-    public static void main(String[] args) {
+    public static void main(String[] asdfgh) {
         furnichers shop1=new furnichers();
         shop1.chair=1000;
         shop1.table=16000;
