@@ -20,5 +20,6 @@ public class furnichers {
         shop2.cart=2000;
         System.out.println(shop2.sofa);
 
+        
     }
 }
